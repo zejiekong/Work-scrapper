@@ -1,3 +1,5 @@
+#Things to change:credential file, website url, job list file 
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from time import sleep
